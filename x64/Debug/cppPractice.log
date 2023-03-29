@@ -1,2 +1,3 @@
-﻿  cppPractice.cpp
+﻿  006.cpp
+C:\git\cppPractice\006.cpp(23,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
   cppPractice.vcxproj -> C:\git\cppPractice\x64\Debug\cppPractice.exe
