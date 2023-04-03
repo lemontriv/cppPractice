@@ -61,6 +61,15 @@
     <ClCompile Include="040.cpp" />
     <ClCompile Include="041.cpp" />
     <ClCompile Include="042.cpp" />
+    <ClCompile Include="043.cpp" />
+    <ClCompile Include="044.cpp" />
+    <ClCompile Include="045.cpp" />
+    <ClCompile Include="046.cpp" />
+    <ClCompile Include="047.cpp" />
+    <ClCompile Include="048.cpp" />
+    <ClCompile Include="049.cpp" />
+    <ClCompile Include="050.cpp" />
+    <ClCompile Include="051.cpp" />
     <ClCompile Include="ascii code table.cpp" />
     <ClCompile Include="017.cpp" />
   </ItemGroup>
