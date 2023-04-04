@@ -72,6 +72,7 @@
     <ClCompile Include="051.cpp" />
     <ClCompile Include="ascii code table.cpp" />
     <ClCompile Include="017.cpp" />
+    <ClCompile Include="bj18111.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
